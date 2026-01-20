@@ -16,3 +16,5 @@
 * chilli sauce
 * soy
 
+##### Squash treat
+* added squash
