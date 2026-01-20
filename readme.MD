@@ -16,7 +16,3 @@
 * chilli sauce
 * soy
 
-##### Squash treat
-* Added Squash pieces
-* added vanilla flavour to the candy base.
-
