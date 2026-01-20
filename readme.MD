@@ -15,3 +15,8 @@
 * dressing
 * chilli sauce
 * soy
+
+##### Squash treat
+* added squash
+* added 4 fruit crushers to the base.
+
