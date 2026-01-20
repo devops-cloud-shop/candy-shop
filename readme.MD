@@ -1,7 +1,6 @@
 # Candy Shop
 
 ## Vanilla pop
-<<<<<<< HEAD
 * added vanilla flavour to the candy base.
 * added 4 fruit crushers to the base.
 
