@@ -11,3 +11,4 @@
 #### Funky salad
 * Added base for protein
 * Added greens
+* Seeds
