@@ -7,3 +7,6 @@
 ### Butter chops
 * Added butter to the mixture base.
 * Attached sticks to hold the butter candy.
+
+#### Funky salad
+* Added base for protein
