@@ -12,3 +12,6 @@
 * Added base for protein
 * Added greens
 * Seeds
+* dressing
+* chilli sauce
+* soy
